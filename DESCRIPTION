@@ -1,13 +1,12 @@
 Package: jabr
 Title: Easy Access for West Java Data
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(given = "Muhammad Aswan",
            family = "Syahputra",
            role = c("aut", "cre"),
            email = "muhammadaswansyahputra@gmail.com")
-Description: Interface to browse, list, and fetch data
-    about West Java.
+Description: Interface to browse, list, and fetch data about West Java.
 License: MIT + file LICENSE
 URL: https://github.com/aswansyahputra/jabr
 BugReports: https://github.com/aswansyahputra/jabr/issues
@@ -18,8 +17,8 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
 NeedsCompilation: no
-Packaged: 2019-12-15 12:08:08 UTC; aswansyahputra
+Packaged: 2020-01-13 04:40:25 UTC; aswansyahputra
 Author: Muhammad Aswan Syahputra [aut, cre]
 Maintainer: Muhammad Aswan Syahputra <muhammadaswansyahputra@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-12-15 12:50:03 UTC
+Date/Publication: 2020-01-13 05:40:03 UTC
